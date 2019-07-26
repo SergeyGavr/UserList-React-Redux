@@ -1,0 +1,11 @@
+.user-list-item button {
+  width: 35px;
+  margin: 3px;
+}
+
+.user-list-item-label {
+  margin-left: 1.25rem;
+  line-height: 35px;
+  cursor: pointer;
+  
+}

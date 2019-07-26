@@ -1,0 +1,13 @@
+.update-form {
+  width: 500px;
+  margin: 20px auto;
+  padding: 20px 15px;
+  background-color: #fff;
+  border: 2px rgb(98, 118, 136) solid;
+  border-radius: 7px;
+
+}
+
+.val {
+  color: red;
+}

@@ -1,0 +1,17 @@
+.user-info-card {
+  min-width: 300px;
+  max-width: 500px
+}
+
+.label {
+  font-size: 1.2rem;
+  margin-right: 10px;
+}
+
+.value {
+  font-size: 1.4rem;
+  color: rgb(130, 180, 255);
+}
+.card-header {
+  color: rgb(152, 255, 34);
+}

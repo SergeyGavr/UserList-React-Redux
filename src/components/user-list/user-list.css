@@ -1,0 +1,13 @@
+.home-page {
+  margin: 3rem auto 0 auto;
+  max-width: 800px;
+}
+
+
+.user-list .list-group-item {
+  padding: .25rem .75rem;
+}
+.user-list {
+  width: 350px;
+  margin-right: 3rem;
+}
